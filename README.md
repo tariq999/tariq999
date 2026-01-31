@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **eCommerce website**
 
-- 👨‍💻 All of my projects are available at [https://portfoliodev9.blogspot.com/](https://portfoliodev9.blogspot.com/)
 
 - 💬 Ask me about **PHP Javascript Sql**
 
-- 📫 How to reach me **mtariq990@gmail.com**
 
 - 📄 Know about my experiences [https://portfoliodev9.blogspot.com/](https://portfoliodev9.blogspot.com/)
 
